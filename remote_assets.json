@@ -1,0 +1,104 @@
+{
+  "packageName": "内置图包·现代都市",
+  "version": "1.0.0",
+  "style": "city",
+  "exportDate": "2026-07-04T09:34:49.873Z",
+  "backgrounds": [
+    {
+      "sceneName": "街道",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E8%A1%97%E9%81%93.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E8%A1%97%E9%81%93.webp",
+      "file": "backgrounds/街道.webp"
+    },
+    {
+      "sceneName": "公寓",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E5%85%AC%E5%AF%93.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E5%85%AC%E5%AF%93.webp",
+      "file": "backgrounds/公寓.webp"
+    },
+    {
+      "sceneName": "咖啡厅",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E5%92%96%E5%95%A1%E5%8E%85.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E5%92%96%E5%95%A1%E5%8E%85.webp",
+      "file": "backgrounds/咖啡厅.webp"
+    },
+    {
+      "sceneName": "办公室",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E5%8A%9E%E5%85%AC%E5%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E5%8A%9E%E5%85%AC%E5%AE%A4.webp",
+      "file": "backgrounds/办公室.webp"
+    },
+    {
+      "sceneName": "写字楼",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E5%86%99%E5%AD%97%E6%A5%BC.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E5%86%99%E5%AD%97%E6%A5%BC.webp",
+      "file": "backgrounds/写字楼.webp"
+    },
+    {
+      "sceneName": "商场",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E5%95%86%E5%9C%BA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E5%95%86%E5%9C%BA.webp",
+      "file": "backgrounds/商场.webp"
+    },
+    {
+      "sceneName": "地铁站",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E5%9C%B0%E9%93%81%E7%AB%99.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E5%9C%B0%E9%93%81%E7%AB%99.webp",
+      "file": "backgrounds/地铁站.webp"
+    },
+    {
+      "sceneName": "公园",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E5%85%AC%E5%9B%AD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E5%85%AC%E5%9B%AD.webp",
+      "file": "backgrounds/公园.webp"
+    },
+    {
+      "sceneName": "餐厅",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E9%A4%90%E5%8E%85.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E9%A4%90%E5%8E%85.webp",
+      "file": "backgrounds/餐厅.webp"
+    },
+    {
+      "sceneName": "酒吧",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E9%85%92%E5%90%A7.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E9%85%92%E5%90%A7.webp",
+      "file": "backgrounds/酒吧.webp"
+    },
+    {
+      "sceneName": "医院",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E5%8C%BB%E9%99%A2.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E5%8C%BB%E9%99%A2.webp",
+      "file": "backgrounds/医院.webp"
+    },
+    {
+      "sceneName": "健身房",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E5%81%A5%E8%BA%AB%E6%88%BF.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E5%81%A5%E8%BA%AB%E6%88%BF.webp",
+      "file": "backgrounds/健身房.webp"
+    },
+    {
+      "sceneName": "电影院",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E7%94%B5%E5%BD%B1%E9%99%A2.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E7%94%B5%E5%BD%B1%E9%99%A2.webp",
+      "file": "backgrounds/电影院.webp"
+    },
+    {
+      "sceneName": "游乐园",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E6%B8%B8%E4%B9%90%E5%9B%AD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E6%B8%B8%E4%B9%90%E5%9B%AD.webp",
+      "file": "backgrounds/游乐园.webp"
+    },
+    {
+      "sceneName": "楼顶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E6%A5%BC%E9%A1%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E6%A5%BC%E9%A1%B6.webp",
+      "file": "backgrounds/楼顶.webp"
+    },
+    {
+      "sceneName": "雨夜街头",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/backgrounds/%E9%9B%A8%E5%A4%9C%E8%A1%97%E5%A4%B4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.0.0/thumbs/%E9%9B%A8%E5%A4%9C%E8%A1%97%E5%A4%B4.webp",
+      "file": "backgrounds/雨夜街头.webp"
+    }
+  ]
+}
