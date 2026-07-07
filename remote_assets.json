@@ -1,6 +1,6 @@
 {
   "packageName": "内置图包·现代都市",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "style": "city",
   "exportDate": "2026-07-04T11:14:56.527Z",
   "backgrounds": [
@@ -187,724 +187,1424 @@
   ],
   "sprites": [
     {
+      "characterId": "便利店店员",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "便利店店员",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "便利店店员",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "便利店店员",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "便利店店员",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "便利店店员",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "便利店店员",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "便利店店员",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "便利店店员",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "便利店店员",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BE%BF%E5%88%A9%E5%BA%97%E5%BA%97%E5%91%98_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
+      "characterId": "保安大叔",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "保安大叔",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "保安大叔",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "保安大叔",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "保安大叔",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "保安大叔",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "保安大叔",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "保安大叔",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "保安大叔",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "保安大叔",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E4%BF%9D%E5%AE%89%E5%A4%A7%E5%8F%94_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
       "characterId": "冷峻刑警",
       "expression": "嘲讽",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%98%B2%E8%AE%BD.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%98%B2%E8%AE%BD.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%98%B2%E8%AE%BD.webp",
       "template": true
     },
     {
       "characterId": "冷峻刑警",
       "expression": "大笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%A4%A7%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%A4%A7%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%A4%A7%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "冷峻刑警",
       "expression": "害羞",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%AE%B3%E7%BE%9E.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%AE%B3%E7%BE%9E.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%AE%B3%E7%BE%9E.webp",
       "template": true
     },
     {
       "characterId": "冷峻刑警",
       "expression": "微笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%BE%AE%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%BE%AE%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E5%BE%AE%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "冷峻刑警",
       "expression": "思考",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%80%9D%E8%80%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%80%9D%E8%80%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%80%9D%E8%80%83.webp",
       "template": true
     },
     {
       "characterId": "冷峻刑警",
       "expression": "惊讶",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%83%8A%E8%AE%B6.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%83%8A%E8%AE%B6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%83%8A%E8%AE%B6.webp",
       "template": true
     },
     {
       "characterId": "冷峻刑警",
       "expression": "搞怪",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%90%9E%E6%80%AA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%90%9E%E6%80%AA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E6%90%9E%E6%80%AA.webp",
       "template": true
     },
     {
       "characterId": "冷峻刑警",
       "expression": "生气",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E7%94%9F%E6%B0%94.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E7%94%9F%E6%B0%94.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E7%94%9F%E6%B0%94.webp",
       "template": true
     },
     {
       "characterId": "冷峻刑警",
       "expression": "难过",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E9%9A%BE%E8%BF%87.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E9%9A%BE%E8%BF%87.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E9%9A%BE%E8%BF%87.webp",
       "template": true
     },
     {
       "characterId": "冷峻刑警",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%86%B7%E5%B3%BB%E5%88%91%E8%AD%A6_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
+      "characterId": "出租车司机",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "出租车司机",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "出租车司机",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "出租车司机",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "出租车司机",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "出租车司机",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "出租车司机",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "出租车司机",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "出租车司机",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "出租车司机",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%8F%B8%E6%9C%BA_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
+      "characterId": "前台小姐",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "前台小姐",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "前台小姐",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "前台小姐",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "前台小姐",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "前台小姐",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "前台小姐",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "前台小姐",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "前台小姐",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "前台小姐",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%89%8D%E5%8F%B0%E5%B0%8F%E5%A7%90_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
+      "characterId": "外卖小哥",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "外卖小哥",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "外卖小哥",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "外卖小哥",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "外卖小哥",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "外卖小哥",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "外卖小哥",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "外卖小哥",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "外卖小哥",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "外卖小哥",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5_%E9%BB%98%E8%AE%A4.webp",
       "template": true
     },
     {
       "characterId": "干练女律师",
       "expression": "嘲讽",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%98%B2%E8%AE%BD.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%98%B2%E8%AE%BD.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%98%B2%E8%AE%BD.webp",
       "template": true
     },
     {
       "characterId": "干练女律师",
       "expression": "大笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%A4%A7%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%A4%A7%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%A4%A7%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "干练女律师",
       "expression": "害羞",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%AE%B3%E7%BE%9E.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%AE%B3%E7%BE%9E.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%AE%B3%E7%BE%9E.webp",
       "template": true
     },
     {
       "characterId": "干练女律师",
       "expression": "微笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%BE%AE%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%BE%AE%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E5%BE%AE%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "干练女律师",
       "expression": "思考",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%80%9D%E8%80%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%80%9D%E8%80%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%80%9D%E8%80%83.webp",
       "template": true
     },
     {
       "characterId": "干练女律师",
       "expression": "惊讶",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%83%8A%E8%AE%B6.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%83%8A%E8%AE%B6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%83%8A%E8%AE%B6.webp",
       "template": true
     },
     {
       "characterId": "干练女律师",
       "expression": "搞怪",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%90%9E%E6%80%AA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%90%9E%E6%80%AA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E6%90%9E%E6%80%AA.webp",
       "template": true
     },
     {
       "characterId": "干练女律师",
       "expression": "生气",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E7%94%9F%E6%B0%94.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E7%94%9F%E6%B0%94.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E7%94%9F%E6%B0%94.webp",
       "template": true
     },
     {
       "characterId": "干练女律师",
       "expression": "难过",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E9%9A%BE%E8%BF%87.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E9%9A%BE%E8%BF%87.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E9%9A%BE%E8%BF%87.webp",
       "template": true
     },
     {
       "characterId": "干练女律师",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E5%B9%B2%E7%BB%83%E5%A5%B3%E5%BE%8B%E5%B8%88_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
+      "characterId": "房东阿姨",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "房东阿姨",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "房东阿姨",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "房东阿姨",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "房东阿姨",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "房东阿姨",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "房东阿姨",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "房东阿姨",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "房东阿姨",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "房东阿姨",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%88%BF%E4%B8%9C%E9%98%BF%E5%A7%A8_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
+      "characterId": "护士小姐",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "护士小姐",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "护士小姐",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "护士小姐",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "护士小姐",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "护士小姐",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "护士小姐",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "护士小姐",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "护士小姐",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "护士小姐",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%8A%A4%E5%A3%AB%E5%B0%8F%E5%A7%90_%E9%BB%98%E8%AE%A4.webp",
       "template": true
     },
     {
       "characterId": "温柔医生",
       "expression": "嘲讽",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%98%B2%E8%AE%BD.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%98%B2%E8%AE%BD.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%98%B2%E8%AE%BD.webp",
       "template": true
     },
     {
       "characterId": "温柔医生",
       "expression": "大笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%A4%A7%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%A4%A7%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%A4%A7%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "温柔医生",
       "expression": "害羞",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%AE%B3%E7%BE%9E.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%AE%B3%E7%BE%9E.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%AE%B3%E7%BE%9E.webp",
       "template": true
     },
     {
       "characterId": "温柔医生",
       "expression": "微笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%BE%AE%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%BE%AE%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E5%BE%AE%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "温柔医生",
       "expression": "思考",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%80%9D%E8%80%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%80%9D%E8%80%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%80%9D%E8%80%83.webp",
       "template": true
     },
     {
       "characterId": "温柔医生",
       "expression": "惊讶",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%83%8A%E8%AE%B6.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%83%8A%E8%AE%B6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%83%8A%E8%AE%B6.webp",
       "template": true
     },
     {
       "characterId": "温柔医生",
       "expression": "搞怪",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%90%9E%E6%80%AA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%90%9E%E6%80%AA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E6%90%9E%E6%80%AA.webp",
       "template": true
     },
     {
       "characterId": "温柔医生",
       "expression": "生气",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E7%94%9F%E6%B0%94.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E7%94%9F%E6%B0%94.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E7%94%9F%E6%B0%94.webp",
       "template": true
     },
     {
       "characterId": "温柔医生",
       "expression": "难过",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E9%9A%BE%E8%BF%87.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E9%9A%BE%E8%BF%87.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E9%9A%BE%E8%BF%87.webp",
       "template": true
     },
     {
       "characterId": "温柔医生",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E6%B8%A9%E6%9F%94%E5%8C%BB%E7%94%9F_%E9%BB%98%E8%AE%A4.webp",
       "template": true
     },
     {
       "characterId": "甜美咖啡师",
       "expression": "嘲讽",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%98%B2%E8%AE%BD.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%98%B2%E8%AE%BD.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%98%B2%E8%AE%BD.webp",
       "template": true
     },
     {
       "characterId": "甜美咖啡师",
       "expression": "大笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%A4%A7%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%A4%A7%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%A4%A7%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "甜美咖啡师",
       "expression": "害羞",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%AE%B3%E7%BE%9E.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%AE%B3%E7%BE%9E.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%AE%B3%E7%BE%9E.webp",
       "template": true
     },
     {
       "characterId": "甜美咖啡师",
       "expression": "微笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%BE%AE%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%BE%AE%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E5%BE%AE%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "甜美咖啡师",
       "expression": "思考",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%80%9D%E8%80%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%80%9D%E8%80%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%80%9D%E8%80%83.webp",
       "template": true
     },
     {
       "characterId": "甜美咖啡师",
       "expression": "惊讶",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%83%8A%E8%AE%B6.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%83%8A%E8%AE%B6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%83%8A%E8%AE%B6.webp",
       "template": true
     },
     {
       "characterId": "甜美咖啡师",
       "expression": "搞怪",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%90%9E%E6%80%AA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%90%9E%E6%80%AA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E6%90%9E%E6%80%AA.webp",
       "template": true
     },
     {
       "characterId": "甜美咖啡师",
       "expression": "生气",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E7%94%9F%E6%B0%94.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E7%94%9F%E6%B0%94.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E7%94%9F%E6%B0%94.webp",
       "template": true
     },
     {
       "characterId": "甜美咖啡师",
       "expression": "难过",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E9%9A%BE%E8%BF%87.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E9%9A%BE%E8%BF%87.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E9%9A%BE%E8%BF%87.webp",
       "template": true
     },
     {
       "characterId": "甜美咖啡师",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%9C%E7%BE%8E%E5%92%96%E5%95%A1%E5%B8%88_%E9%BB%98%E8%AE%A4.webp",
       "template": true
     },
     {
       "characterId": "电竞少年",
       "expression": "嘲讽",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%98%B2%E8%AE%BD.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%98%B2%E8%AE%BD.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%98%B2%E8%AE%BD.webp",
       "template": true
     },
     {
       "characterId": "电竞少年",
       "expression": "大笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%A4%A7%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%A4%A7%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%A4%A7%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "电竞少年",
       "expression": "害羞",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%AE%B3%E7%BE%9E.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%AE%B3%E7%BE%9E.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%AE%B3%E7%BE%9E.webp",
       "template": true
     },
     {
       "characterId": "电竞少年",
       "expression": "微笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%BE%AE%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%BE%AE%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E5%BE%AE%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "电竞少年",
       "expression": "思考",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%80%9D%E8%80%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%80%9D%E8%80%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%80%9D%E8%80%83.webp",
       "template": true
     },
     {
       "characterId": "电竞少年",
       "expression": "惊讶",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%83%8A%E8%AE%B6.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%83%8A%E8%AE%B6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%83%8A%E8%AE%B6.webp",
       "template": true
     },
     {
       "characterId": "电竞少年",
       "expression": "搞怪",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%90%9E%E6%80%AA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%90%9E%E6%80%AA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E6%90%9E%E6%80%AA.webp",
       "template": true
     },
     {
       "characterId": "电竞少年",
       "expression": "生气",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E7%94%9F%E6%B0%94.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E7%94%9F%E6%B0%94.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E7%94%9F%E6%B0%94.webp",
       "template": true
     },
     {
       "characterId": "电竞少年",
       "expression": "难过",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E9%9A%BE%E8%BF%87.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E9%9A%BE%E8%BF%87.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E9%9A%BE%E8%BF%87.webp",
       "template": true
     },
     {
       "characterId": "电竞少年",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%94%B5%E7%AB%9E%E5%B0%91%E5%B9%B4_%E9%BB%98%E8%AE%A4.webp",
       "template": true
     },
     {
       "characterId": "痞帅酒吧老板",
       "expression": "嘲讽",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%98%B2%E8%AE%BD.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%98%B2%E8%AE%BD.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%98%B2%E8%AE%BD.webp",
       "template": true
     },
     {
       "characterId": "痞帅酒吧老板",
       "expression": "大笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%A4%A7%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%A4%A7%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%A4%A7%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "痞帅酒吧老板",
       "expression": "害羞",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%AE%B3%E7%BE%9E.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%AE%B3%E7%BE%9E.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%AE%B3%E7%BE%9E.webp",
       "template": true
     },
     {
       "characterId": "痞帅酒吧老板",
       "expression": "微笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%BE%AE%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%BE%AE%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E5%BE%AE%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "痞帅酒吧老板",
       "expression": "思考",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%80%9D%E8%80%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%80%9D%E8%80%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%80%9D%E8%80%83.webp",
       "template": true
     },
     {
       "characterId": "痞帅酒吧老板",
       "expression": "惊讶",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%83%8A%E8%AE%B6.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%83%8A%E8%AE%B6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%83%8A%E8%AE%B6.webp",
       "template": true
     },
     {
       "characterId": "痞帅酒吧老板",
       "expression": "搞怪",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%90%9E%E6%80%AA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%90%9E%E6%80%AA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E6%90%9E%E6%80%AA.webp",
       "template": true
     },
     {
       "characterId": "痞帅酒吧老板",
       "expression": "生气",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E7%94%9F%E6%B0%94.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E7%94%9F%E6%B0%94.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E7%94%9F%E6%B0%94.webp",
       "template": true
     },
     {
       "characterId": "痞帅酒吧老板",
       "expression": "难过",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E9%9A%BE%E8%BF%87.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E9%9A%BE%E8%BF%87.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E9%9A%BE%E8%BF%87.webp",
       "template": true
     },
     {
       "characterId": "痞帅酒吧老板",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E7%97%9E%E5%B8%85%E9%85%92%E5%90%A7%E8%80%81%E6%9D%BF_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
+      "characterId": "老教授",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%80%81%E6%95%99%E6%8E%88_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%80%81%E6%95%99%E6%8E%88_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "老教授",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%80%81%E6%95%99%E6%8E%88_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%80%81%E6%95%99%E6%8E%88_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "老教授",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%80%81%E6%95%99%E6%8E%88_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%80%81%E6%95%99%E6%8E%88_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "老教授",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%80%81%E6%95%99%E6%8E%88_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%80%81%E6%95%99%E6%8E%88_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "老教授",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%80%81%E6%95%99%E6%8E%88_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%80%81%E6%95%99%E6%8E%88_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "老教授",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%80%81%E6%95%99%E6%8E%88_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%80%81%E6%95%99%E6%8E%88_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "老教授",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%80%81%E6%95%99%E6%8E%88_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%80%81%E6%95%99%E6%8E%88_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "老教授",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%80%81%E6%95%99%E6%8E%88_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%80%81%E6%95%99%E6%8E%88_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "老教授",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%80%81%E6%95%99%E6%8E%88_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%80%81%E6%95%99%E6%8E%88_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "老教授",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%80%81%E6%95%99%E6%8E%88_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%80%81%E6%95%99%E6%8E%88_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
+      "characterId": "街头混混",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "街头混混",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "街头混混",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "街头混混",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "街头混混",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "街头混混",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "街头混混",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "街头混混",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "街头混混",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "街头混混",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A1%97%E5%A4%B4%E6%B7%B7%E6%B7%B7_%E9%BB%98%E8%AE%A4.webp",
       "template": true
     },
     {
       "characterId": "西装总裁",
       "expression": "嘲讽",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%98%B2%E8%AE%BD.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%98%B2%E8%AE%BD.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%98%B2%E8%AE%BD.webp",
       "template": true
     },
     {
       "characterId": "西装总裁",
       "expression": "大笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%A4%A7%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%A4%A7%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%A4%A7%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "西装总裁",
       "expression": "害羞",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%AE%B3%E7%BE%9E.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%AE%B3%E7%BE%9E.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%AE%B3%E7%BE%9E.webp",
       "template": true
     },
     {
       "characterId": "西装总裁",
       "expression": "微笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%BE%AE%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%BE%AE%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E5%BE%AE%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "西装总裁",
       "expression": "思考",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%80%9D%E8%80%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%80%9D%E8%80%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%80%9D%E8%80%83.webp",
       "template": true
     },
     {
       "characterId": "西装总裁",
       "expression": "惊讶",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%83%8A%E8%AE%B6.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%83%8A%E8%AE%B6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%83%8A%E8%AE%B6.webp",
       "template": true
     },
     {
       "characterId": "西装总裁",
       "expression": "搞怪",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%90%9E%E6%80%AA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%90%9E%E6%80%AA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E6%90%9E%E6%80%AA.webp",
       "template": true
     },
     {
       "characterId": "西装总裁",
       "expression": "生气",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E7%94%9F%E6%B0%94.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E7%94%9F%E6%B0%94.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E7%94%9F%E6%B0%94.webp",
       "template": true
     },
     {
       "characterId": "西装总裁",
       "expression": "难过",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E9%9A%BE%E8%BF%87.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E9%9A%BE%E8%BF%87.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E9%9A%BE%E8%BF%87.webp",
       "template": true
     },
     {
       "characterId": "西装总裁",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%A5%BF%E8%A3%85%E6%80%BB%E8%A3%81_%E9%BB%98%E8%AE%A4.webp",
       "template": true
     },
     {
       "characterId": "路人",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%B7%AF%E4%BA%BA_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%B7%AF%E4%BA%BA_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%B7%AF%E4%BA%BA_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%B7%AF%E4%BA%BA_%E9%BB%98%E8%AE%A4.webp",
       "template": false
     },
     {
       "characterId": "路人女",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%B7%AF%E4%BA%BA%E5%A5%B3_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%B7%AF%E4%BA%BA%E5%A5%B3_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%B7%AF%E4%BA%BA%E5%A5%B3_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%B7%AF%E4%BA%BA%E5%A5%B3_%E9%BB%98%E8%AE%A4.webp",
       "template": false
     },
     {
       "characterId": "路人男",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E8%B7%AF%E4%BA%BA%E7%94%B7_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E8%B7%AF%E4%BA%BA%E7%94%B7_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E8%B7%AF%E4%BA%BA%E7%94%B7_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E8%B7%AF%E4%BA%BA%E7%94%B7_%E9%BB%98%E8%AE%A4.webp",
       "template": false
     },
     {
+      "characterId": "部门经理",
+      "expression": "嘲讽",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E5%98%B2%E8%AE%BD.webp",
+      "template": true
+    },
+    {
+      "characterId": "部门经理",
+      "expression": "大笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E5%A4%A7%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "部门经理",
+      "expression": "害羞",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E5%AE%B3%E7%BE%9E.webp",
+      "template": true
+    },
+    {
+      "characterId": "部门经理",
+      "expression": "微笑",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E5%BE%AE%E7%AC%91.webp",
+      "template": true
+    },
+    {
+      "characterId": "部门经理",
+      "expression": "思考",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E6%80%9D%E8%80%83.webp",
+      "template": true
+    },
+    {
+      "characterId": "部门经理",
+      "expression": "惊讶",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E6%83%8A%E8%AE%B6.webp",
+      "template": true
+    },
+    {
+      "characterId": "部门经理",
+      "expression": "搞怪",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E6%90%9E%E6%80%AA.webp",
+      "template": true
+    },
+    {
+      "characterId": "部门经理",
+      "expression": "生气",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E7%94%9F%E6%B0%94.webp",
+      "template": true
+    },
+    {
+      "characterId": "部门经理",
+      "expression": "难过",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E9%9A%BE%E8%BF%87.webp",
+      "template": true
+    },
+    {
+      "characterId": "部门经理",
+      "expression": "默认",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%83%A8%E9%97%A8%E7%BB%8F%E7%90%86_%E9%BB%98%E8%AE%A4.webp",
+      "template": true
+    },
+    {
       "characterId": "酷飒女骑手",
       "expression": "嘲讽",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%98%B2%E8%AE%BD.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%98%B2%E8%AE%BD.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%98%B2%E8%AE%BD.webp",
       "template": true
     },
     {
       "characterId": "酷飒女骑手",
       "expression": "大笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%A4%A7%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%A4%A7%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%A4%A7%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "酷飒女骑手",
       "expression": "害羞",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%AE%B3%E7%BE%9E.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%AE%B3%E7%BE%9E.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%AE%B3%E7%BE%9E.webp",
       "template": true
     },
     {
       "characterId": "酷飒女骑手",
       "expression": "微笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%BE%AE%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%BE%AE%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E5%BE%AE%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "酷飒女骑手",
       "expression": "思考",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%80%9D%E8%80%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%80%9D%E8%80%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%80%9D%E8%80%83.webp",
       "template": true
     },
     {
       "characterId": "酷飒女骑手",
       "expression": "惊讶",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%83%8A%E8%AE%B6.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%83%8A%E8%AE%B6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%83%8A%E8%AE%B6.webp",
       "template": true
     },
     {
       "characterId": "酷飒女骑手",
       "expression": "搞怪",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%90%9E%E6%80%AA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%90%9E%E6%80%AA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E6%90%9E%E6%80%AA.webp",
       "template": true
     },
     {
       "characterId": "酷飒女骑手",
       "expression": "生气",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E7%94%9F%E6%B0%94.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E7%94%9F%E6%B0%94.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E7%94%9F%E6%B0%94.webp",
       "template": true
     },
     {
       "characterId": "酷飒女骑手",
       "expression": "难过",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E9%9A%BE%E8%BF%87.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E9%9A%BE%E8%BF%87.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E9%9A%BE%E8%BF%87.webp",
       "template": true
     },
     {
       "characterId": "酷飒女骑手",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%85%B7%E9%A3%92%E5%A5%B3%E9%AA%91%E6%89%8B_%E9%BB%98%E8%AE%A4.webp",
       "template": true
     },
     {
       "characterId": "钢琴艺术家",
       "expression": "嘲讽",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%98%B2%E8%AE%BD.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%98%B2%E8%AE%BD.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%98%B2%E8%AE%BD.webp",
       "template": true
     },
     {
       "characterId": "钢琴艺术家",
       "expression": "大笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%A4%A7%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%A4%A7%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%A4%A7%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "钢琴艺术家",
       "expression": "害羞",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%AE%B3%E7%BE%9E.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%AE%B3%E7%BE%9E.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%AE%B3%E7%BE%9E.webp",
       "template": true
     },
     {
       "characterId": "钢琴艺术家",
       "expression": "微笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%BE%AE%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%BE%AE%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E5%BE%AE%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "钢琴艺术家",
       "expression": "思考",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%80%9D%E8%80%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%80%9D%E8%80%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%80%9D%E8%80%83.webp",
       "template": true
     },
     {
       "characterId": "钢琴艺术家",
       "expression": "惊讶",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%83%8A%E8%AE%B6.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%83%8A%E8%AE%B6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%83%8A%E8%AE%B6.webp",
       "template": true
     },
     {
       "characterId": "钢琴艺术家",
       "expression": "搞怪",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%90%9E%E6%80%AA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%90%9E%E6%80%AA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E6%90%9E%E6%80%AA.webp",
       "template": true
     },
     {
       "characterId": "钢琴艺术家",
       "expression": "生气",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E7%94%9F%E6%B0%94.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E7%94%9F%E6%B0%94.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E7%94%9F%E6%B0%94.webp",
       "template": true
     },
     {
       "characterId": "钢琴艺术家",
       "expression": "难过",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E9%9A%BE%E8%BF%87.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E9%9A%BE%E8%BF%87.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E9%9A%BE%E8%BF%87.webp",
       "template": true
     },
     {
       "characterId": "钢琴艺术家",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%92%A2%E7%90%B4%E8%89%BA%E6%9C%AF%E5%AE%B6_%E9%BB%98%E8%AE%A4.webp",
       "template": true
     },
     {
       "characterId": "阳光大学生",
       "expression": "嘲讽",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%98%B2%E8%AE%BD.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%98%B2%E8%AE%BD.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%98%B2%E8%AE%BD.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%98%B2%E8%AE%BD.webp",
       "template": true
     },
     {
       "characterId": "阳光大学生",
       "expression": "大笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%A4%A7%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%A4%A7%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%A4%A7%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%A4%A7%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "阳光大学生",
       "expression": "害羞",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%AE%B3%E7%BE%9E.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%AE%B3%E7%BE%9E.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%AE%B3%E7%BE%9E.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%AE%B3%E7%BE%9E.webp",
       "template": true
     },
     {
       "characterId": "阳光大学生",
       "expression": "微笑",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%BE%AE%E7%AC%91.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%BE%AE%E7%AC%91.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%BE%AE%E7%AC%91.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E5%BE%AE%E7%AC%91.webp",
       "template": true
     },
     {
       "characterId": "阳光大学生",
       "expression": "思考",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%80%9D%E8%80%83.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%80%9D%E8%80%83.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%80%9D%E8%80%83.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%80%9D%E8%80%83.webp",
       "template": true
     },
     {
       "characterId": "阳光大学生",
       "expression": "惊讶",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%83%8A%E8%AE%B6.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%83%8A%E8%AE%B6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%83%8A%E8%AE%B6.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%83%8A%E8%AE%B6.webp",
       "template": true
     },
     {
       "characterId": "阳光大学生",
       "expression": "搞怪",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%90%9E%E6%80%AA.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%90%9E%E6%80%AA.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%90%9E%E6%80%AA.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E6%90%9E%E6%80%AA.webp",
       "template": true
     },
     {
       "characterId": "阳光大学生",
       "expression": "生气",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E7%94%9F%E6%B0%94.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E7%94%9F%E6%B0%94.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E7%94%9F%E6%B0%94.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E7%94%9F%E6%B0%94.webp",
       "template": true
     },
     {
       "characterId": "阳光大学生",
       "expression": "难过",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E9%9A%BE%E8%BF%87.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E9%9A%BE%E8%BF%87.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E9%9A%BE%E8%BF%87.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E9%9A%BE%E8%BF%87.webp",
       "template": true
     },
     {
       "characterId": "阳光大学生",
       "expression": "默认",
-      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E9%BB%98%E8%AE%A4.webp",
-      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.3.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E9%BB%98%E8%AE%A4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprites/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E9%BB%98%E8%AE%A4.webp",
+      "thumb": "https://cdn.jsdelivr.net/gh/bigmalove/galgame-bg-city@v1.4.0/sprite-thumbs/%E9%98%B3%E5%85%89%E5%A4%A7%E5%AD%A6%E7%94%9F_%E9%BB%98%E8%AE%A4.webp",
       "template": true
     }
   ]
